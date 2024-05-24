@@ -16,7 +16,7 @@
                 <th>Id</th>
                 <th>Título</th>
                 <th>Gênero</th>
-                <th>Autor</tr>
+                <th>Autor</th>
                 <th>&nbsp;</th>
             </tr>
             <c:forEach var="l" items="${livros}">

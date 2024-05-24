@@ -32,7 +32,7 @@
                 </div>
                 </c:forEach>
             </div>
-            <button type="submit">Salvar</button>
+            <button type="submit" class="btn btn-success">Salvar</button>
         </form>
     </div>
     </body>
